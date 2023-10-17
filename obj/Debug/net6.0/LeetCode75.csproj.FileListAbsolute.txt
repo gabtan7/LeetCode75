@@ -1,0 +1,15 @@
+C:\Users\gab\Documents\CODE\LeetCode75\bin\Debug\net6.0\LeetCode75.exe
+C:\Users\gab\Documents\CODE\LeetCode75\bin\Debug\net6.0\LeetCode75.deps.json
+C:\Users\gab\Documents\CODE\LeetCode75\bin\Debug\net6.0\LeetCode75.runtimeconfig.json
+C:\Users\gab\Documents\CODE\LeetCode75\bin\Debug\net6.0\LeetCode75.dll
+C:\Users\gab\Documents\CODE\LeetCode75\bin\Debug\net6.0\LeetCode75.pdb
+C:\Users\gab\Documents\CODE\LeetCode75\obj\Debug\net6.0\LeetCode75.csproj.AssemblyReference.cache
+C:\Users\gab\Documents\CODE\LeetCode75\obj\Debug\net6.0\LeetCode75.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gab\Documents\CODE\LeetCode75\obj\Debug\net6.0\LeetCode75.AssemblyInfoInputs.cache
+C:\Users\gab\Documents\CODE\LeetCode75\obj\Debug\net6.0\LeetCode75.AssemblyInfo.cs
+C:\Users\gab\Documents\CODE\LeetCode75\obj\Debug\net6.0\LeetCode75.csproj.CoreCompileInputs.cache
+C:\Users\gab\Documents\CODE\LeetCode75\obj\Debug\net6.0\LeetCode75.dll
+C:\Users\gab\Documents\CODE\LeetCode75\obj\Debug\net6.0\refint\LeetCode75.dll
+C:\Users\gab\Documents\CODE\LeetCode75\obj\Debug\net6.0\LeetCode75.pdb
+C:\Users\gab\Documents\CODE\LeetCode75\obj\Debug\net6.0\LeetCode75.genruntimeconfig.cache
+C:\Users\gab\Documents\CODE\LeetCode75\obj\Debug\net6.0\ref\LeetCode75.dll
